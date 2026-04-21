@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @gnreivax
+/src/backend/database.py      @gnreivax
+/src/backend/routers/auth.py  @gnreivax
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @gnreivax
